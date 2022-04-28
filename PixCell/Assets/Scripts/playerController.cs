@@ -4,7 +4,7 @@ public class playerController : MonoBehaviour
 
 {
     public float MovementSpeed = 1;
-    public float BloodSpeed = 1;
+
 
     private void Start()
     {
@@ -19,9 +19,6 @@ public class playerController : MonoBehaviour
         var vertical = Input.GetAxis("Vertical");
         transform.position += new Vector3(horizontal, vertical, 0) * Time.deltaTime * MovementSpeed;
         
-        // BloodSpeed
-        transform.position += new Vector3(-1, 0, 0) * Time.deltaTime * BloodSpeed;
-
 
 
     }
