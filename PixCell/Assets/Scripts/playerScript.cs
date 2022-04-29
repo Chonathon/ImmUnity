@@ -1,9 +1,25 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class playerScript : MonoBehaviour
 
 {
-    public GameObject otherPlayer;
+
+    public playerSwitchLogic logic;
+
+    void OnMouseDown()
+    {
+        logic.ChangePlayer(this.gameObject);
+        GetComponent<playerController>().enabled = true;
+
+            
+    }
+
+
+
+
+    // public GameObject otherPlayer;
     // private void Update () 
     // {
 
@@ -15,10 +31,10 @@ public class playerScript : MonoBehaviour
     //     }
     // }
 
-void OnMouseDown()
-{
-        otherPlayer.GetComponent<playerController>().enabled = false;
-        GetComponent<playerController>().enabled = true;
-}
+// void OnMouseDown()
+// {
+//         otherPlayer.GetComponent<playerController>().enabled = false;
+//         GetComponent<playerController>().enabled = true;
+// }
 
 }

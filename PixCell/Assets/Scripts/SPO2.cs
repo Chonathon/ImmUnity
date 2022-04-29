@@ -20,7 +20,6 @@ public class SPO2 : MonoBehaviour
     {
         if (currentSpo2 > 0.0f)
         {
-        Debug.Log(Time.deltaTime);
         currentSpo2 -= spo2DropSpeed * Time.deltaTime;
         spo2Bar.SetSPO2(currentSpo2);
         }
