@@ -18,7 +18,7 @@ public class spo2Up : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E))
         // if (spo2.currentSpo2 < spo2.maxSpo2)
         {
-            spo2.currentSpo2 += spo2UpSpeed;
+            spo2.currentSpo2 = spo2.currentSpo2 + spo2UpSpeed;
         }
     }
 }
