@@ -10,15 +10,14 @@ public class spo2Up : MonoBehaviour
     
     void Awake()
     {
-        spo2 = FindObjectOfType<SPO2>();   
-        Debug.Log(spo2.currentSpo2());
+        spo2 = FindObjectOfType<SPO2>();
     }
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (spo2.currentSpo2 < spo2.maxSpo2)
+        if (Input.GetKeyDown(KeyCode.E))
+        // if (spo2.currentSpo2 < spo2.maxSpo2)
         {
-            Debug.Log("True");
             spo2.currentSpo2 += spo2UpSpeed;
         }
     }
