@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: -8730410098566993600}
   m_Layer: 0
   m_Name: RBC
-  m_TagString: Player
+  m_TagString: RBC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
