@@ -8,10 +8,14 @@ public class timedSpawn : MonoBehaviour
     public float timeToSpawn;
     private float currentTimeToSpawn;
 
+    public bool spawnTrigger;
+    // TODO: 
+    // - Create an array of objects to be chosen at random
+    // - Create an array of vector positions to choose at random
     // Start is called before the first frame update
     private void Start()
     {
-        // Instantiate(objectToSpawn, transform.position, Quaternion.identity); 
+
     }
 
     // Update is called once per frame

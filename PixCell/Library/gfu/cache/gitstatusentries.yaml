@@ -13,9 +13,64 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-04-30T23:51:57.586-04:00
+  lastUpdatedAtString: 2022-05-01T01:48:36.144-04:00
   initializedAtString: 2022-04-30T21:37:57.900-04:00
   entries:
+  - path: PixCell/.plastic/plastic.changes
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.changes
+    projectPath: .plastic/plastic.changes
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/.plastic/plastic.selector
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.selector
+    projectPath: .plastic/plastic.selector
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/.plastic/plastic.wktree
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.wktree
+    projectPath: .plastic/plastic.wktree
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/.plastic/plastic.workspace
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.workspace
+    projectPath: .plastic/plastic.workspace
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/BC Spawner.prefab
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/BC Spawner.prefab
+    projectPath: Assets/Prefabs/BC Spawner.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/Pathogen Spawner.prefab
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Pathogen
+      Spawner.prefab
+    projectPath: Assets/Prefabs/Pathogen Spawner.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scenes/paperCut.unity
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scenes/paperCut.unity
+    projectPath: Assets/Scenes/paperCut.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Assets/Scripts/timedSpawn.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/timedSpawn.cs
+    projectPath: Assets/Scripts/timedSpawn.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/ignore.conf
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/ignore.conf
+    projectPath: ignore.conf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: PixCell/Library/gfu/cache/branches.yaml
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -28,13 +83,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Library/gfu/cache/gitlog 2.yaml
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitlog
-      2.yaml
-    projectPath: Library/gfu/cache/gitlog 2.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: PixCell/Library/gfu/cache/gitlog.yaml
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitlog.yaml
     projectPath: Library/gfu/cache/gitlog.yaml
@@ -53,21 +101,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Library/InspectorExpandedItems.asset
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: PixCell/Library/SceneVisibilityState.asset
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Library/SourceAssetDB
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SourceAssetDB
-    projectPath: Library/SourceAssetDB
+  - path: PixCell/Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -77,15 +119,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Logs/AssetImportWorker0.log
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Logs/AssetImportWorker0.log
-    projectPath: Logs/AssetImportWorker0.log
+  - path: PixCell/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PixCell/Temp/__Backupscenes/0.backup
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Temp/Assembly-CSharp.dll.hash
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Temp/Assembly-CSharp.dll.hash
+    projectPath: Temp/Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Temp/CompilationLog.txt
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
