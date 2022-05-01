@@ -8,6 +8,9 @@ public class playerSwitchLogic : MonoBehaviour
     [SerializeField]
 
     GameObject CurrentPlayer;
+    // TODO:
+    // - Figure out how to stop clones from being controlled
+    // -> Consider creating an area out of Player tags
 
     void Start()
     {

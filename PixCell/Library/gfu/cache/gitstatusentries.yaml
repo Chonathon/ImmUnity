@@ -13,43 +13,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-05-01T01:48:36.144-04:00
+  lastUpdatedAtString: 2022-05-01T02:35:26.453-04:00
   initializedAtString: 2022-04-30T21:37:57.900-04:00
   entries:
   - path: PixCell/.plastic/plastic.changes
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.changes
     projectPath: .plastic/plastic.changes
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PixCell/.plastic/plastic.selector
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.selector
-    projectPath: .plastic/plastic.selector
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PixCell/.plastic/plastic.wktree
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.wktree
     projectPath: .plastic/plastic.wktree
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PixCell/.plastic/plastic.workspace
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.workspace
-    projectPath: .plastic/plastic.workspace
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PixCell/Assets/Prefabs/BC Spawner.prefab
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/BC Spawner.prefab
     projectPath: Assets/Prefabs/BC Spawner.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PixCell/Assets/Prefabs/Pathogen Spawner.prefab
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Pathogen
-      Spawner.prefab
-    projectPath: Assets/Prefabs/Pathogen Spawner.prefab
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Assets/Prefabs/Pathogen.prefab
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Pathogen.prefab
+    projectPath: Assets/Prefabs/Pathogen.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Assets/Prefabs/RBC.prefab
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/RBC.prefab
+    projectPath: Assets/Prefabs/RBC.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Assets/Prefabs/SPO2 Bar.prefab
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/SPO2 Bar.prefab
+    projectPath: Assets/Prefabs/SPO2 Bar.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -59,18 +58,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Assets/Scripts/timedSpawn.cs
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/timedSpawn.cs
-    projectPath: Assets/Scripts/timedSpawn.cs
+  - path: PixCell/Assets/Scripts/playerSwitchLogic.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/playerSwitchLogic.cs
+    projectPath: Assets/Scripts/playerSwitchLogic.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/ignore.conf
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/ignore.conf
-    projectPath: ignore.conf
+  - path: PixCell/Assets/Scripts/wbcAttack.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/wbcAttack.cs
+    projectPath: Assets/Scripts/wbcAttack.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: PixCell/Library/ArtifactDB
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PixCell/Library/gfu/cache/branches.yaml
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -101,6 +106,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: PixCell/Library/InspectorExpandedItems.asset
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PixCell/Library/SceneVisibilityState.asset
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
@@ -110,6 +121,12 @@ MonoBehaviour:
   - path: PixCell/Library/ScriptAssemblies/Assembly-CSharp.dll
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ScriptAssemblies/Assembly-CSharp.dll
     projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/SourceAssetDB
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -125,9 +142,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/ProjectSettings/ProjectSettings.asset
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/ProjectSettings/ProjectSettings.asset
-    projectPath: ProjectSettings/ProjectSettings.asset
+  - path: PixCell/Logs/ApiUpdaterCheck.txt
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Logs/ApiUpdaterCheck.txt
+    projectPath: Logs/ApiUpdaterCheck.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Logs/shadercompiler-AssetImportWorker0.log
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Logs/shadercompiler-AssetImportWorker0.log
+    projectPath: Logs/shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/ProjectSettings/TagManager.asset
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

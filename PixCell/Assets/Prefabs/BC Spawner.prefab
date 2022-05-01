@@ -43,4 +43,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 244b50404ca7c483aa42e7aa2b1f5f44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RBC: {fileID: 755772724104962459, guid: cae1a5334290a47eb9e132d271c6dac8, type: 3}
+  objectToSpawn: {fileID: 755772724104962459, guid: cae1a5334290a47eb9e132d271c6dac8, type: 3}
+  timeToSpawn: 1
+  spawnTrigger: 0

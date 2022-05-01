@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4596223074251544401}
   - component: {fileID: 5659044871322215861}
   - component: {fileID: 3872759420643628042}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Pathogen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
