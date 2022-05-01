@@ -85,3 +85,5 @@ Temporary Items
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.meta
+PixCell/Library/Artifacts/00/002355df1d16f472da7e4e8f3dd7cca5
