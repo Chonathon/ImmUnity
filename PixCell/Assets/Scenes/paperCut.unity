@@ -1405,6 +1405,7 @@ GameObject:
   - component: {fileID: 1420686774}
   - component: {fileID: 1420686773}
   - component: {fileID: 1420686772}
+  - component: {fileID: 1420686775}
   m_Layer: 0
   m_Name: Pathogen (1)
   m_TagString: Untagged
@@ -1503,6 +1504,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1420686775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1420686771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244b50404ca7c483aa42e7aa2b1f5f44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RBC: {fileID: 1995790594}
 --- !u!1 &1487468533
 GameObject:
   m_ObjectHideFlags: 0
@@ -2609,6 +2623,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1995790594 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4596223074251544415, guid: 6f415b337f0694b1bbc12fa2c2d90b24, type: 3}
+  m_PrefabInstance: {fileID: 4596223073896341897}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2045615961
 GameObject:
   m_ObjectHideFlags: 0
