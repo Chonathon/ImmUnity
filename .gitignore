@@ -87,3 +87,6 @@ crashlytics-build.properties
 
 *.meta
 PixCell/Library/Artifacts/00/002355df1d16f472da7e4e8f3dd7cca5
+PixCell/UserSettings/Layouts/default-2021.dwlt
+PixCell/ProjectSettings/MemorySettings.asset
+PixCell/ProjectSettings/boot.config
