@@ -30,12 +30,17 @@ public class pathogenMotion : MonoBehaviour
     Vector3 controlPoint;
     Vector3 endingPoint;
     public LineRenderer lr;
+    public GameObject pathogen;
     // Start is called before the first frame update
     void Start()
     {
-        startingPoint = new Vector3(43,36,0);
-        controlPoint = new Vector3(49,39,0);
+        startingPoint = new Vector3(pathogen.transform.localPosition.x,pathogen.transform.localPosition.y,0);
+        controlPoint = new Vector3((pathogen.transform.localPosition.x + 1),(pathogen.transform.localPosition.y + 1),0);
         endingPoint = new Vector3(54,36,0);
+ 
+        // startingPoint = new Vector3(43,36,0);
+        // controlPoint = new Vector3(49,39,0);
+        // endingPoint = new Vector3(54,36,0);
         //lr = GetComponent<LineRenderer>();
     }
 

@@ -8,6 +8,7 @@ public class wbcAttack : MonoBehaviour
     public Transform attackPoint;
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
+    public Animator animator;
     void Start()
     {
         
@@ -19,17 +20,19 @@ public class wbcAttack : MonoBehaviour
         // Not reading this input
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Debug.Log("Swing");
+            // Debug.Log("Swing");
             Attack();
         }
     }
 
     void Attack()
     {
+        animator.SetTrigger("Punch");
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
         foreach(Collider2D enemy in hitEnemies)
         {
+            Destroy(enemy.gameObject);
             Debug.Log("Attack" + hitEnemies);
         }
 

@@ -12,8 +12,6 @@ public class playerScript : MonoBehaviour
     {
         logic.ChangePlayer(this.gameObject);
         GetComponent<playerController>().enabled = true;
-
-            
     }
 
 
