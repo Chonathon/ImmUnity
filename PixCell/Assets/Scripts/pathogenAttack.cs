@@ -14,7 +14,6 @@ public class pathogenAttack : MonoBehaviour
         
     }
 
-    // Update is called once per frame
     private void OnCollisionEnter2D(Collider2D collision)
     {
         if(collision.gameObject.tag  == "RBC")
