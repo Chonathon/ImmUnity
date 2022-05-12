@@ -2,16 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerScript : MonoBehaviour
+
+
+// <summary>
+// Provides controls of the game object to the player
+// </summary>
+public class PlayerScript : MonoBehaviour
 
 {
 
-    public playerSwitchLogic logic;
+    private PlayerSwitchLogic logic;
 
     void OnMouseDown()
     {
         logic.ChangePlayer(this.gameObject);
-        GetComponent<playerController>().enabled = true;
+        GetComponent<PlayerController>().enabled = true;
     }
 
 

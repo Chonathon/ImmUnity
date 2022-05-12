@@ -13,17 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-05-12T00:17:44.514-04:00
+  lastUpdatedAtString: 2022-05-12T00:19:00.261-04:00
   initializedAtString: 2022-05-11T23:12:35.066-04:00
   localBranches:
   - name: Sean-Naming-Conventions
-    tracking: 
+    tracking: origin/Sean-Naming-Conventions
   - name: main
     tracking: origin/main
   - name: migrating
     tracking: origin/migrating
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Sean-Naming-Conventions
     tracking: '[None]'
   - name: origin/main
     tracking: '[None]'
@@ -45,9 +47,9 @@ MonoBehaviour:
     values:
     - name: Sean-Naming-Conventions
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/Chonathon/ImmUnity.git
+      trackingBranch: Sean-Naming-Conventions
     - name: main
       remote:
         name: origin
@@ -64,11 +66,17 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - Sean-Naming-Conventions
       - main
       - migrating
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Chonathon/ImmUnity.git
+        trackingBranch: 
+      - name: Sean-Naming-Conventions
         remote:
           name: origin
           url: https://github.com/Chonathon/ImmUnity.git

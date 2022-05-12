@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerSwitchLogic : MonoBehaviour
+public class PlayerSwitchLogic : MonoBehaviour
 {
     public GameObject[] Players;
     [SerializeField]
@@ -16,14 +16,14 @@ public class playerSwitchLogic : MonoBehaviour
     {
         for (int i = 1; i < Players.Length; i++)
         {
-            Players[i].GetComponent<playerController>().enabled = false;
+            Players[i].GetComponent<PlayerController>().enabled = false;
         }
         CurrentPlayer = Players[0];
     }
 
     public void ChangePlayer(GameObject player) 
     {
-        CurrentPlayer.GetComponent<playerController>().enabled = false;
+        CurrentPlayer.GetComponent<PlayerController>().enabled = false;
         CurrentPlayer = player;
     }
 

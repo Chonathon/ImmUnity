@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-05-12T00:17:44.497-04:00
+  lastUpdatedAtString: 2022-05-12T00:19:00.245-04:00
   initializedAtString: 2022-05-11T10:57:20.667-04:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: Sean-Naming-Conventions
-    tracking: 
+    tracking: origin/Sean-Naming-Conventions
   currentConfigBranch:
     name: Sean-Naming-Conventions
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Chonathon/ImmUnity.git
+    trackingBranch: Sean-Naming-Conventions
   currentConfigRemote:
     name: origin
     url: https://github.com/Chonathon/ImmUnity.git

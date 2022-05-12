@@ -2,19 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// <summary>
+// WIP
+// - Destroys game objects tagged 'RBC'
+// - Instantiates game object of same type
+// </summary>
 public class PathogenAttack : MonoBehaviour
 {
 
+    // public GameObject infectedCell;
 
 
-    public GameObject infectedCell;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    private void OnCollisionEnter2D(Collider2D collision)
+    private void CollisionEnter2D(Collider2D collision)
     {
         if(collision.gameObject.tag  == "RBC")
         {

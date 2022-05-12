@@ -1,15 +1,17 @@
 using UnityEngine;
 
-public class playerController : MonoBehaviour
+// <summary>
+// Maps X and Y axis movement to arrow and wasd keys
+// </summary>
+public class PlayerController : MonoBehaviour
 
 {
-    public float MovementSpeed = 1;
+    // <summary>
+    // Speed of movement
+    // </summary>
+    [SerializeField]
+    private float MovementSpeed = 1;
 
-
-    private void Start()
-    {
-
-    }
 
     // Update is called once per frame
     private void Update()
