@@ -13,259 +13,191 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-05-06T15:38:22.415-04:00
-  initializedAtString: 2022-05-06T15:11:28.077-04:00
+  lastUpdatedAtString: 2022-05-11T23:52:01.082-04:00
+  initializedAtString: 2022-05-11T10:57:20.816-04:00
   entries:
-  - path: PixCell/.plastic/plastic 6.changes
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic 6.changes
-    projectPath: .plastic/plastic 6.changes
+  - path: PixCell/Assets/Animations.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations.meta
+    projectPath: Assets/Animations.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/.plastic/plastic 6.wktree
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic 6.wktree
-    projectPath: .plastic/plastic 6.wktree
+  - path: PixCell/Assets/Animations/RBC.controller.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/RBC.controller.meta
+    projectPath: Assets/Animations/RBC.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/.plastic/plastic.branchexplorer
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.branchexplorer
-    projectPath: .plastic/plastic.branchexplorer
+  - path: PixCell/Assets/Animations/RBC_Walk.anim.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/RBC_Walk.anim.meta
+    projectPath: Assets/Animations/RBC_Walk.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/.plastic/plastic.changes
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.changes
-    projectPath: .plastic/plastic.changes
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/.plastic/plastic.wktree
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/.plastic/plastic.wktree
-    projectPath: .plastic/plastic.wktree
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Assets/Animations/RBC.controller
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/RBC.controller
-    projectPath: Assets/Animations/RBC.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PixCell/Assets/Animations/RBC_Walk.anim
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/RBC_Walk.anim
-    projectPath: Assets/Animations/RBC_Walk.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: PixCell/Assets/Animations/SPO2 Bar.controller
+  - path: PixCell/Assets/Animations/SPO2 Bar.controller.meta
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/SPO2
-      Bar.controller
-    projectPath: Assets/Animations/SPO2 Bar.controller
+      Bar.controller.meta
+    projectPath: Assets/Animations/SPO2 Bar.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/Assets/Animations/WBC.controller
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/WBC.controller
-    projectPath: Assets/Animations/WBC.controller
+  - path: PixCell/Assets/Animations/WBC.controller.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/WBC.controller.meta
+    projectPath: Assets/Animations/WBC.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/Assets/Animations/WBC_Idle.anim
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/WBC_Idle.anim
-    projectPath: Assets/Animations/WBC_Idle.anim
+  - path: PixCell/Assets/Animations/WBC_Idle.anim.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/WBC_Idle.anim.meta
+    projectPath: Assets/Animations/WBC_Idle.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/Assets/Animations/WBC_Punch.anim
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/WBC_Punch.anim
-    projectPath: Assets/Animations/WBC_Punch.anim
+  - path: PixCell/Assets/Animations/WBC_Punch.anim.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Animations/WBC_Punch.anim.meta
+    projectPath: Assets/Animations/WBC_Punch.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/Assets/Art/Sprites/220503_RBC.png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/220503_RBC.png
-    projectPath: Assets/Art/Sprites/220503_RBC.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Assets/Art/Sprites/Pathogen.png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/Pathogen.png
-    projectPath: Assets/Art/Sprites/Pathogen.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Assets/Art/Sprites/RBC/220503_RBC.png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_RBC.png
-    projectPath: Assets/Art/Sprites/RBC/220503_RBC.png
+  - path: PixCell/Assets/Art/Sprites/220503_Pathogen.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/220503_Pathogen.png.meta
+    projectPath: Assets/Art/Sprites/220503_Pathogen.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/Assets/Art/Sprites/RBC/220503_Walk_1.png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_Walk_1.png
-    projectPath: Assets/Art/Sprites/RBC/220503_Walk_1.png
+  - path: PixCell/Assets/Art/Sprites/220503_WBC.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/220503_WBC.png.meta
+    projectPath: Assets/Art/Sprites/220503_WBC.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/Assets/Art/Sprites/RBC/220503_Walk_2.png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_Walk_2.png
-    projectPath: Assets/Art/Sprites/RBC/220503_Walk_2.png
+  - path: PixCell/Assets/Art/Sprites/220503_WBC_punch.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/220503_WBC_punch.png.meta
+    projectPath: Assets/Art/Sprites/220503_WBC_punch.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/Assets/Art/Sprites/RBC/220503_Walk_3.png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_Walk_3.png
-    projectPath: Assets/Art/Sprites/RBC/220503_Walk_3.png
+  - path: PixCell/Assets/Art/Sprites/RBC.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC.meta
+    projectPath: Assets/Art/Sprites/RBC.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/Assets/Art/Sprites/RBC/220503_walk_4.png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_walk_4.png
-    projectPath: Assets/Art/Sprites/RBC/220503_walk_4.png
+  - path: PixCell/Assets/Art/Sprites/RBC/220503_RBC.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_RBC.png.meta
+    projectPath: Assets/Art/Sprites/RBC/220503_RBC.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/Assets/Art/Sprites/SPO2 Border.png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/SPO2
-      Border.png
-    projectPath: Assets/Art/Sprites/SPO2 Border.png
+  - path: PixCell/Assets/Art/Sprites/RBC/220503_Walk_1.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_Walk_1.png.meta
+    projectPath: Assets/Art/Sprites/RBC/220503_Walk_1.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Assets/Art/Sprites/SPO2 Progress.png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/SPO2
-      Progress.png
-    projectPath: Assets/Art/Sprites/SPO2 Progress.png
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Art/Sprites/RBC/220503_Walk_2.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_Walk_2.png.meta
+    projectPath: Assets/Art/Sprites/RBC/220503_Walk_2.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Assets/Art/Sprites/WhiteBloodCell (placeholder).png
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/WhiteBloodCell
-      (placeholder).png
-    projectPath: Assets/Art/Sprites/WhiteBloodCell (placeholder).png
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Art/Sprites/RBC/220503_Walk_3.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_Walk_3.png.meta
+    projectPath: Assets/Art/Sprites/RBC/220503_Walk_3.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Assets/Prefabs/Player/RBC.prefab
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Player/RBC.prefab
-    projectPath: Assets/Prefabs/Player/RBC.prefab
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Art/Sprites/RBC/220503_walk_4.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/RBC/220503_walk_4.png.meta
+    projectPath: Assets/Art/Sprites/RBC/220503_walk_4.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Assets/Prefabs/Player/WBC.prefab
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Player/WBC.prefab
-    projectPath: Assets/Prefabs/Player/WBC.prefab
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Art/Sprites/Spo2_bar.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/Spo2_bar.png.meta
+    projectPath: Assets/Art/Sprites/Spo2_bar.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Assets/Scenes/paperCut.unity
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scenes/paperCut.unity
-    projectPath: Assets/Scenes/paperCut.unity
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Art/Sprites/Untitled-Artwork.png.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Art/Sprites/Untitled-Artwork.png.meta
+    projectPath: Assets/Art/Sprites/Untitled-Artwork.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Assets/Scripts/pathogenAttack.cs
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/pathogenAttack.cs
-    projectPath: Assets/Scripts/pathogenAttack.cs
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/BC Spawner.prefab.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/BC Spawner.prefab.meta
+    projectPath: Assets/Prefabs/BC Spawner.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Assets/WBC.controller
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/WBC.controller
-    projectPath: Assets/WBC.controller
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/Pathogen Spawner.prefab.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Pathogen
+      Spawner.prefab.meta
+    projectPath: Assets/Prefabs/Pathogen Spawner.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Assets/WBC_Idle.anim
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/WBC_Idle.anim
-    projectPath: Assets/WBC_Idle.anim
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/Player.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Player.meta
+    projectPath: Assets/Prefabs/Player.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Assets/WBC_Punch.anim
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/WBC_Punch.anim
-    projectPath: Assets/WBC_Punch.anim
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/Player/RBC.prefab.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Player/RBC.prefab.meta
+    projectPath: Assets/Prefabs/Player/RBC.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/ArtifactDB
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ArtifactDB
-    projectPath: Library/ArtifactDB
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/Player/WBC.prefab.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Player/WBC.prefab.meta
+    projectPath: Assets/Prefabs/Player/WBC.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/ArtifactDB-lock
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ArtifactDB-lock
-    projectPath: Library/ArtifactDB-lock
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/SPO2 Bar.prefab.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/SPO2 Bar.prefab.meta
+    projectPath: Assets/Prefabs/SPO2 Bar.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/expandedItems
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/expandedItems
-    projectPath: Library/expandedItems
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/WBC Spawner.prefab.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/WBC Spawner.prefab.meta
+    projectPath: Assets/Prefabs/WBC Spawner.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/gfu/cache/branches.yaml
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scenes/Presentation.unity.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scenes/Presentation.unity.meta
+    projectPath: Assets/Scenes/Presentation.unity.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/gfu/cache/gitlocks.yaml
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitlocks.yaml
-    projectPath: Library/gfu/cache/gitlocks.yaml
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scripts/.DS_Store
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/.DS_Store
+    projectPath: Assets/Scripts/.DS_Store
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scripts/pathogenAttack.cs.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/pathogenAttack.cs.meta
+    projectPath: Assets/Scripts/pathogenAttack.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/gfu/cache/gitstatusentries.yaml
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitstatusentries.yaml
-    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scripts/pathogenMotion.cs.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/pathogenMotion.cs.meta
+    projectPath: Assets/Scripts/pathogenMotion.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/gfu/cache/gittrackingstatus.yaml
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gittrackingstatus.yaml
-    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scripts/wbcAttack.cs.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/wbcAttack.cs.meta
+    projectPath: Assets/Scripts/wbcAttack.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/SceneVisibilityState.asset
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SceneVisibilityState.asset
-    projectPath: Library/SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/ScriptAssemblies/Assembly-CSharp.dll
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ScriptAssemblies/Assembly-CSharp.dll
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/SourceAssetDB
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SourceAssetDB
-    projectPath: Library/SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/SourceAssetDB-lock
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SourceAssetDB-lock
-    projectPath: Library/SourceAssetDB-lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
@@ -278,34 +210,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Logs/AssetImportWorker0.log
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Logs/AssetImportWorker0.log
-    projectPath: Logs/AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Logs/AssetImportWorker1-prev.log
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Logs/AssetImportWorker1-prev.log
-    projectPath: Logs/AssetImportWorker1-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Logs/shadercompiler-AssetImportWorker0.log
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Logs/shadercompiler-AssetImportWorker0.log
-    projectPath: Logs/shadercompiler-AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/UserSettings/Layouts/default-2021 2.dwlt
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/UserSettings/Layouts/default-2021
-      2.dwlt
-    projectPath: UserSettings/Layouts/default-2021 2.dwlt
+  - path: PixCell/ProjectSettings/boot.config
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/ProjectSettings/boot.config
+    projectPath: ProjectSettings/boot.config
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: PixCell/UserSettings/Search.settings
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/UserSettings/Search.settings
-    projectPath: UserSettings/Search.settings
+  - path: PixCell/ProjectSettings/MemorySettings.asset
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/ProjectSettings/MemorySettings.asset
+    projectPath: ProjectSettings/MemorySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/UserSettings/Layouts/default-2021.dwlt
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/UserSettings/Layouts/default-2021.dwlt
+    projectPath: UserSettings/Layouts/default-2021.dwlt
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
