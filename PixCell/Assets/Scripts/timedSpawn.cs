@@ -1,12 +1,24 @@
 using UnityEngine;
 
-public class timedSpawn : MonoBehaviour
+
+
+// <summary>
+// Instantiates the attached object at a chosen freqency randomly along the y 
+// axis of an attached game object
+// </summary>
+public class TimedSpawn : MonoBehaviour
 {
+    // <summary>
+    // The object to be instatiated
+    // </summary>
+    public GameObject ObjectToSpawn;
 
-    public GameObject objectToSpawn;
+    // <summary>
+    // Freqency of instantiating
+    // </summary>
+    public float TimeToSpawn;
 
-    public float timeToSpawn;
-    private float currentTimeToSpawn;
+    private float CurrentTimeToSpawn;
 
     public Vector2 center;
     
@@ -14,7 +26,7 @@ public class timedSpawn : MonoBehaviour
 
     public Transform spawner;
 
-    public playerSwitchLogic playerSwitch;
+    public PlayerSwitchLogic playerSwitch;
 
     public bool spawnTrigger;
     // TODO: 
@@ -29,14 +41,14 @@ public class timedSpawn : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        if(currentTimeToSpawn > 0)
+        if(CurrentTimeToSpawn > 0)
         {
-            currentTimeToSpawn -= Time.deltaTime;
+            CurrentTimeToSpawn -= Time.deltaTime;
         }
         else
         {
             SpawnObject();
-            currentTimeToSpawn = timeToSpawn;
+            CurrentTimeToSpawn = TimeToSpawn;
             // TODO:
             // - if spawn object tag == RBC || WBC 
             // - add to Player array
@@ -51,7 +63,7 @@ public class timedSpawn : MonoBehaviour
     public void SpawnObject()
     {
         Vector2 pos = new Vector2(transform.position.x, Random.Range(-size.y / 2, size.y / 2));
-        Instantiate(objectToSpawn, pos, Quaternion.identity); 
+        Instantiate(ObjectToSpawn, pos, Quaternion.identity); 
     }
 
     void OnDrawGizmosSelected()
