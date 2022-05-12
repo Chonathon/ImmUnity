@@ -1,4 +1,0 @@
-repository "PixCell@Chonathon@cloud"
-  path "/"
-    br "/main"
-    co "/main"
