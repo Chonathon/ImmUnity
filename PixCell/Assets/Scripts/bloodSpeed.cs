@@ -2,18 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class bloodSpeed : MonoBehaviour
+// <summary>
+// Moves a game object negatively along the x axis at a constant speed.
+// </summary>
+public class BloodSpeed : MonoBehaviour
 {
-    public float BloodSpeed = 1;
+    // <summary>
+    // Controls the rate in which the game object travels
+    // </summary>
+      [SerializeField] 
+      private float speed = 1;
     // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
     {
-        transform.position += new Vector3(-1, 0, 0) * Time.deltaTime * BloodSpeed;  
+        transform.position += new Vector3(-1, 0, 0) * Time.deltaTime * speed;  
     }
 }

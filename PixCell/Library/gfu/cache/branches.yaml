@@ -13,15 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-05-04T00:44:45.778-04:00
-  initializedAtString: 2022-05-04T00:44:45.765-04:00
+  lastUpdatedAtString: 2022-05-11T23:54:51.625-04:00
+  initializedAtString: 2022-05-11T23:12:35.066-04:00
   localBranches:
   - name: main
     tracking: origin/main
+  - name: migrating
+    tracking: origin/migrating
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/main
+    tracking: '[None]'
+  - name: origin/migrating
     tracking: '[None]'
   remotes:
   - name: origin
@@ -34,12 +38,18 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - main
+    - migrating
     values:
     - name: main
       remote:
         name: origin
         url: https://github.com/Chonathon/ImmUnity.git
       trackingBranch: main
+    - name: migrating
+      remote:
+        name: origin
+        url: https://github.com/Chonathon/ImmUnity.git
+      trackingBranch: migrating
   remoteConfigBranches:
     keys:
     - origin
@@ -47,6 +57,7 @@ MonoBehaviour:
     - Values:
       - HEAD
       - main
+      - migrating
     subKeyValues:
     - Values:
       - name: HEAD
@@ -55,6 +66,11 @@ MonoBehaviour:
           url: https://github.com/Chonathon/ImmUnity.git
         trackingBranch: 
       - name: main
+        remote:
+          name: origin
+          url: https://github.com/Chonathon/ImmUnity.git
+        trackingBranch: 
+      - name: migrating
         remote:
           name: origin
           url: https://github.com/Chonathon/ImmUnity.git
