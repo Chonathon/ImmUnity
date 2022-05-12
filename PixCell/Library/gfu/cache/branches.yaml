@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-05-11T23:54:51.625-04:00
+  lastUpdatedAtString: 2022-05-12T00:17:44.514-04:00
   initializedAtString: 2022-05-11T23:12:35.066-04:00
   localBranches:
+  - name: Sean-Naming-Conventions
+    tracking: 
   - name: main
     tracking: origin/main
   - name: migrating
@@ -37,9 +39,15 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Sean-Naming-Conventions
     - main
     - migrating
     values:
+    - name: Sean-Naming-Conventions
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
     - name: main
       remote:
         name: origin
