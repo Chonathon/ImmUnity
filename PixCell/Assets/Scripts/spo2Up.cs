@@ -2,21 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class spo2Up : MonoBehaviour
+// <summary>
+// Increases Spo2 on collision with a chosen object
+// </summary>
+public class Spo2Up : MonoBehaviour
 {
 
-    public SPO2 spo2;
-    public float spo2AddSpeed = 1f;
+    // <summary>
+    // Rate at which spo2 is increased
+    // </summary>
+    public float Spo2AddSpeed = 1f;
 
-    // Option 1 
+    public Spo2 spo2;
+
     private void OnTriggerEnter2D(Collider2D collision)
-
-
     {
         if (collision.tag == "RBC")
         {
 
-            spo2.addSpo2(spo2AddSpeed);
+            spo2.addSpo2(Spo2AddSpeed);
 
         }
     }

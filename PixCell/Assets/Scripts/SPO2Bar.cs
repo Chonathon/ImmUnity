@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class SPO2Bar : MonoBehaviour
+// <summary>
+// Maps slider to Spo2
+// </summary>
+public class Spo2Bar : MonoBehaviour
 {
 
     public Slider slider;
