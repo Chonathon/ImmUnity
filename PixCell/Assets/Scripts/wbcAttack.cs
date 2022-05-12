@@ -2,13 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class wbcAttack : MonoBehaviour
+// <summary>
+// Attaches radial gizmo to object. When spacebar is hit, object overlapping 
+// gizmo destroyed.
+// </summary>
+public class WbcAttack : MonoBehaviour
 {
-
-    public Transform attackPoint;
-    public float attackRange = 0.5f;
-    public LayerMask enemyLayers;
-    public Animator animator;
+    // TODO:
+    // - Write summaries for public classes
+    public Transform AttackPoint;
+    public float AttackRange = 0.5f;
+    public LayerMask EnemyLayers;
+    public Animator Animator;
     void Start()
     {
         
@@ -27,8 +32,8 @@ public class wbcAttack : MonoBehaviour
 
     void Attack()
     {
-        animator.SetTrigger("Punch");
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+        Animator.SetTrigger("Punch");
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(AttackPoint.position, AttackRange, EnemyLayers);
 
         foreach(Collider2D enemy in hitEnemies)
         {
@@ -40,10 +45,10 @@ public class wbcAttack : MonoBehaviour
 
     void OnDrawGizmosSelected()
     {
-        if (attackPoint == null)
+        if (AttackPoint == null)
         return;
 
-        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
+        Gizmos.DrawWireSphere(AttackPoint.position, AttackRange);
     }
 
 }
