@@ -148,7 +148,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a43c05d103e74c748e4ed8e90b7442d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  logic: {fileID: 0}
 --- !u!114 &5579206566205703807
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -161,7 +160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f1e0aa5e22666441da03109b488f8726, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BloodSpeed: 1.5
+  speed: 1
 --- !u!58 &3541155840650858464
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -211,12 +210,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87225f93dfc9a45c3afe5091b0914dff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackPoint: {fileID: 879721677}
-  attackRange: 0.5
-  enemyLayers:
+  AttackPoint: {fileID: 879721677}
+  AttackRange: 0.5
+  EnemyLayers:
     serializedVersion: 2
     m_Bits: 1024
-  animator: {fileID: -1497994345992773499}
+  Animator: {fileID: -1497994345992773499}
 --- !u!95 &-1497994345992773499
 Animator:
   serializedVersion: 4
