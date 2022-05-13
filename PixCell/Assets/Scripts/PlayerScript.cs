@@ -15,6 +15,7 @@ public class PlayerScript : MonoBehaviour
 
     void OnMouseDown()
     {
+        Debug.Log("clicked");
         logic.ChangePlayer(this.gameObject);
         GetComponent<PlayerController>().enabled = true;
     }

@@ -18,14 +18,21 @@ public class PlayerSwitchLogic : MonoBehaviour
         {
             Players[i].GetComponent<PlayerController>().enabled = false;
         }
-        // CurrentPlayer = Players[0];
+                
+        CurrentPlayer = Players[0];
         
 
     }
 
     void Update()
     {
+
         Players = GameObject.FindGameObjectsWithTag("Player");
+                for (int i = 1; i < Players.Length; i++)
+        {
+            Players[i].GetComponent<PlayerController>().enabled = false;
+        }
+
     }
 
     public void ChangePlayer(GameObject player) 
