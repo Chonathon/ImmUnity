@@ -115,7 +115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d8dfa330f65249e09f7c39f82aff9d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  infectedCell: {fileID: 755772724104962459, guid: cae1a5334290a47eb9e132d271c6dac8, type: 3}
+  infectedCell: {fileID: 4596223074251544415}
 --- !u!50 &2079925113
 Rigidbody2D:
   serializedVersion: 4
