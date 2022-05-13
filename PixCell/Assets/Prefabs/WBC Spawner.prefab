@@ -45,9 +45,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ObjectToSpawn: {fileID: 5579206566205703803, guid: cf852f25d9015446c8a572785f7e6d90, type: 3}
-  TimeToSpawn: 1
+  TimeToSpawn: 2
   center: {x: 0, y: 0}
   size: {x: 0.1, y: 6.06}
-  spawner: {fileID: 0}
+  spawner: {fileID: 5378904847826994671}
   playerSwitch: {fileID: 0}
   spawnTrigger: 0

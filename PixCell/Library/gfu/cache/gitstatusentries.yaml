@@ -13,15 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-05-13T12:32:19.439-04:00
+  lastUpdatedAtString: 2022-05-13T14:17:16.239-04:00
   initializedAtString: 2022-05-13T12:31:14.366-04:00
   entries:
-  - path: PixCell/Assets/Prefabs/Pathogen.prefab
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Pathogen.prefab
-    projectPath: Assets/Prefabs/Pathogen.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: PixCell/Assets/Prefabs/WBC Spawner.prefab
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/WBC Spawner.prefab
     projectPath: Assets/Prefabs/WBC Spawner.prefab
@@ -34,9 +28,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Assets/Scripts/PathogenAttack.cs
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/PathogenAttack.cs
-    projectPath: Assets/Scripts/PathogenAttack.cs
+  - path: PixCell/Assets/Scripts/PlayerSwitchLogic.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/PlayerSwitchLogic.cs
+    projectPath: Assets/Scripts/PlayerSwitchLogic.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Assets/Scripts/TimedSpawn.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/TimedSpawn.cs
+    projectPath: Assets/Scripts/TimedSpawn.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -46,72 +46,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Library/ArtifactDB-lock
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ArtifactDB-lock
-    projectPath: Library/ArtifactDB-lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/Artifacts/01/01e85004e1fa533ef40aa00bc33515ba
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/01/01e85004e1fa533ef40aa00bc33515ba
-    projectPath: Library/Artifacts/01/01e85004e1fa533ef40aa00bc33515ba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/Artifacts/1c/1c5bdac705bca8e12c821c84d210b7af
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/1c/1c5bdac705bca8e12c821c84d210b7af
-    projectPath: Library/Artifacts/1c/1c5bdac705bca8e12c821c84d210b7af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/Artifacts/4b/4b7cfafc3b40cc12a8bcc6bee9d1ef65
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/4b/4b7cfafc3b40cc12a8bcc6bee9d1ef65
-    projectPath: Library/Artifacts/4b/4b7cfafc3b40cc12a8bcc6bee9d1ef65
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/Artifacts/71/71ee3507c54d716f4dccd9e99137fbab
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/71/71ee3507c54d716f4dccd9e99137fbab
-    projectPath: Library/Artifacts/71/71ee3507c54d716f4dccd9e99137fbab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/Artifacts/93/933bd0842b121b2c00530fca9d2a18ce
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/93/933bd0842b121b2c00530fca9d2a18ce
-    projectPath: Library/Artifacts/93/933bd0842b121b2c00530fca9d2a18ce
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/Artifacts/c3/c341a6cad3ec160ae4865179651edd99
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/c3/c341a6cad3ec160ae4865179651edd99
-    projectPath: Library/Artifacts/c3/c341a6cad3ec160ae4865179651edd99
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/Artifacts/d2/d20ada80c9e205ff74846fed9cc2f16a
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/d2/d20ada80c9e205ff74846fed9cc2f16a
-    projectPath: Library/Artifacts/d2/d20ada80c9e205ff74846fed9cc2f16a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/Artifacts/d9/d9af3f23c5a5b167d48d2e591fbb780a
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/d9/d9af3f23c5a5b167d48d2e591fbb780a
-    projectPath: Library/Artifacts/d9/d9af3f23c5a5b167d48d2e591fbb780a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/Artifacts/e1/e11bd5a30c4377689937438e84842b1a
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/e1/e11bd5a30c4377689937438e84842b1a
-    projectPath: Library/Artifacts/e1/e11bd5a30c4377689937438e84842b1a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: PixCell/Library/Artifacts/e3/e3d08b6255ed3b09d9aa10459c246463
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/Artifacts/e3/e3d08b6255ed3b09d9aa10459c246463
-    projectPath: Library/Artifacts/e3/e3d08b6255ed3b09d9aa10459c246463
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: PixCell/Library/gfu/cache/branches.yaml
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -172,12 +106,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Library/SourceAssetDB-lock
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SourceAssetDB-lock
-    projectPath: Library/SourceAssetDB-lock
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
@@ -187,12 +115,6 @@ MonoBehaviour:
   - path: PixCell/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Logs/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Logs/shadercompiler-UnityShaderCompiler0.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

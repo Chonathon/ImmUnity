@@ -26,19 +26,16 @@ public class TimedSpawn : MonoBehaviour
 
     public Transform spawner;
 
-    public PlayerSwitchLogic playerSwitch;
+    private PlayerSwitchLogic playerSwitch;
 
     public bool spawnTrigger;
     // TODO: 
     // - Create an array of objects to be chosen at random
     // - Create an array of vector positions to choose at random
-    // - Start is called before the first frame update
     private void Start()
     {
 
     }
-
-    // Update is called once per frame
     private void Update()
     {
         if(CurrentTimeToSpawn > 0)
@@ -63,8 +60,18 @@ public class TimedSpawn : MonoBehaviour
     public void SpawnObject()
     {
         Vector2 pos = new Vector2(transform.position.x, Random.Range(-size.y / 2, size.y / 2));
-        Instantiate(ObjectToSpawn, pos, Quaternion.identity); 
+        Instantiate(ObjectToSpawn, pos, Quaternion.identity);
+        // for (int i = 1; i < Players.Length; i++)
+        // {
+            
+        // }
     }
+    
+    // public void SpawnRbc()
+    // {
+    //     Vector2 pos = new Vector2(transform.position.x, Random.Range(-size.y / 2, size.y / 2));
+    //     Instantiate(ObjectToSpawn, pos, Quaternion.identity); 
+    // }
 
     void OnDrawGizmosSelected()
     {

@@ -13,11 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-05-13T11:44:21.211-04:00
-  initializedAtString: 2022-05-13T11:08:24.112-04:00
+  lastUpdatedAtString: 2022-05-13T12:46:28.163-04:00
+  initializedAtString: 2022-05-13T12:32:36.675-04:00
   localBranches:
   - name: Sean-Naming-Conventions
     tracking: origin/Sean-Naming-Conventions
+  - name: TimedSpawn
+    tracking: 
   - name: main
     tracking: origin/main
   - name: migrating
@@ -42,6 +44,7 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - Sean-Naming-Conventions
+    - TimedSpawn
     - main
     - migrating
     values:
@@ -50,6 +53,11 @@ MonoBehaviour:
         name: origin
         url: https://github.com/Chonathon/ImmUnity.git
       trackingBranch: Sean-Naming-Conventions
+    - name: TimedSpawn
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
     - name: main
       remote:
         name: origin
