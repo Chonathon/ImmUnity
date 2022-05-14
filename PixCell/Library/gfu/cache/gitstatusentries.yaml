@@ -13,9 +13,35 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-05-13T14:36:49.217-04:00
-  initializedAtString: 2022-05-13T14:30:54.462-04:00
+  lastUpdatedAtString: 2022-05-13T21:39:15.511-04:00
+  initializedAtString: 2022-05-13T21:34:25.292-04:00
   entries:
+  - path: PixCell/Assets/Prefabs/Player/WBC.prefab
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Player/WBC.prefab
+    projectPath: Assets/Prefabs/Player/WBC.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Assets/Prefabs/Switch Logic.prefab
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Switch
+      Logic.prefab
+    projectPath: Assets/Prefabs/Switch Logic.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Prefabs/Switch Logic.prefab.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Switch
+      Logic.prefab.meta
+    projectPath: Assets/Prefabs/Switch Logic.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scenes/paperCut.unity
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scenes/paperCut.unity
+    projectPath: Assets/Scenes/paperCut.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PixCell/Assets/Scripts/PlayerScript.cs
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/PlayerScript.cs
     projectPath: Assets/Scripts/PlayerScript.cs
@@ -28,6 +54,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: PixCell/Assets/Scripts/WbcAttack.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/WbcAttack.cs
+    projectPath: Assets/Scripts/WbcAttack.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PixCell/Library/ArtifactDB
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ArtifactDB
     projectPath: Library/ArtifactDB
@@ -37,6 +69,12 @@ MonoBehaviour:
   - path: PixCell/Library/ArtifactDB-lock
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ArtifactDB-lock
     projectPath: Library/ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/expandedItems
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/expandedItems
+    projectPath: Library/expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -109,6 +147,31 @@ MonoBehaviour:
   - path: PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/UserSettings/EditorUserSettings.asset
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/UserSettings/EditorUserSettings.asset
+    projectPath: UserSettings/EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/UserSettings/Layouts/default-2021 4.dwlt
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/UserSettings/Layouts/default-2021
+      4.dwlt
+    projectPath: UserSettings/Layouts/default-2021 4.dwlt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/UserSettings/Layouts/default-2021.dwlt
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/UserSettings/Layouts/default-2021.dwlt
+    projectPath: UserSettings/Layouts/default-2021.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

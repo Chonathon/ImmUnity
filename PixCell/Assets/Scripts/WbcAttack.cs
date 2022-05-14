@@ -18,7 +18,8 @@ public class WbcAttack : MonoBehaviour
     {
         
     }
-
+    // TODO:
+    // - Make it so only selected Wbc is attacking
     // Update is called once per frame
     void Update()
     {

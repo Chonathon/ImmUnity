@@ -10,12 +10,11 @@ using UnityEngine;
 public class PlayerScript : MonoBehaviour
 
 {
-
-    private PlayerSwitchLogic logic;
+    public PlayerSwitchLogic logic;
 
     void OnMouseDown()
     {
-        Debug.Log("clicked");
+        // Debug.Log(this);
         logic.ChangePlayer(this.gameObject);
         GetComponent<PlayerController>().enabled = true;
     }

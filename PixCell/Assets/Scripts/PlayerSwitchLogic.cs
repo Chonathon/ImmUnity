@@ -9,30 +9,32 @@ public class PlayerSwitchLogic : MonoBehaviour
 
     GameObject CurrentPlayer;
     // TODO:
-    // - Figure out how to stop clones from being controlled
-    // -> Consider creating an area out of Player tags
 
     void Start()
     {
-        for (int i = 1; i < Players.Length; i++)
-        {
-            Players[i].GetComponent<PlayerController>().enabled = false;
-        }
-                
-        CurrentPlayer = Players[0];
-        
 
+        // CurrentPlayer = Players[0];
     }
 
     void Update()
     {
 
+
+        
+        
+        
         Players = GameObject.FindGameObjectsWithTag("Player");
-                for (int i = 1; i < Players.Length; i++)
+        foreach (GameObject player in Players)
+        {
+            if (player != CurrentPlayer)
+            {
+                player.GetComponent<PlayerController>().enabled = false;
+            }
+        }
+        for (int i = 1; i < Players.Length; i++)
         {
             Players[i].GetComponent<PlayerController>().enabled = false;
         }
-
     }
 
     public void ChangePlayer(GameObject player) 
