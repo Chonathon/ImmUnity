@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5659044871322215861}
   - component: {fileID: 8680098148737647442}
   - component: {fileID: 2079925113}
+  - component: {fileID: 7116077802028279383}
   m_Layer: 10
   m_Name: Pathogen
   m_TagString: Untagged
@@ -137,3 +138,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &7116077802028279383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4596223074251544415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e4a56182fa5a4cabbfeae98be293a7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedModifier: 0.04
+  BoundingBox: {fileID: 0}

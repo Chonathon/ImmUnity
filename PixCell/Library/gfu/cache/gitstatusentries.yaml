@@ -13,36 +13,60 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-05-13T22:06:05.798-04:00
-  initializedAtString: 2022-05-13T21:34:25.292-04:00
+  lastUpdatedAtString: 2022-05-14T12:41:39.635-04:00
+  initializedAtString: 2022-05-14T12:40:07.370-04:00
   entries:
-  - path: PixCell/Assets/Scripts/PlayerSwitchLogic.cs
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/PlayerSwitchLogic.cs
-    projectPath: Assets/Scripts/PlayerSwitchLogic.cs
+  - path: PixCell/Assets/Prefabs/Pathogen.prefab
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Prefabs/Pathogen.prefab
+    projectPath: Assets/Prefabs/Pathogen.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Assets/Scripts/WbcAttack.cs
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/WbcAttack.cs
-    projectPath: Assets/Scripts/WbcAttack.cs
+  - path: PixCell/Assets/Scenes/paperCut.unity
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scenes/paperCut.unity
+    projectPath: Assets/Scenes/paperCut.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: PixCell/Library/gfu/cache/branches.yaml
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
+  - path: PixCell/Assets/Scripts/BoundingBox.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/BoundingBox.cs
+    projectPath: Assets/Scripts/BoundingBox.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scripts/BoundingBox.cs.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/BoundingBox.cs.meta
+    projectPath: Assets/Scripts/BoundingBox.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scripts/FollowPath.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/FollowPath.cs
+    projectPath: Assets/Scripts/FollowPath.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Assets/Scripts/FollowPath.cs.meta
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/FollowPath.cs.meta
+    projectPath: Assets/Scripts/FollowPath.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: PixCell/Library/ArtifactDB
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/ArtifactDB-lock
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ArtifactDB-lock
+    projectPath: Library/ArtifactDB-lock
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: PixCell/Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: PixCell/Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -76,9 +100,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: PixCell/Library/SourceAssetDB
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/SourceAssetDB-lock
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SourceAssetDB-lock
+    projectPath: Library/SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
