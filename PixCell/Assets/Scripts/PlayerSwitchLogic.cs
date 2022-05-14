@@ -7,7 +7,7 @@ public class PlayerSwitchLogic : MonoBehaviour
     public GameObject[] Players;
     [SerializeField]
 
-    GameObject CurrentPlayer;
+    public GameObject CurrentPlayer;
     // TODO:
 
     void Start()
@@ -29,6 +29,7 @@ public class PlayerSwitchLogic : MonoBehaviour
             if (player != CurrentPlayer)
             {
                 player.GetComponent<PlayerController>().enabled = false;
+                player.GetComponent<WbcAttack>().enabled = false;
             }
         }
         for (int i = 1; i < Players.Length; i++)

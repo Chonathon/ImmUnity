@@ -20,13 +20,12 @@ public class WbcAttack : MonoBehaviour
     }
     // TODO:
     // - Make it so only selected Wbc is attacking
-    // Update is called once per frame
+    public PlayerSwitchLogic logic;
     void Update()
     {
-        // Not reading this input
+
         if (Input.GetKeyDown(KeyCode.Space))
-        {
-            // Debug.Log("Swing");
+        {   
             Attack();
         }
     }
@@ -39,7 +38,6 @@ public class WbcAttack : MonoBehaviour
         foreach(Collider2D enemy in hitEnemies)
         {
             Destroy(enemy.gameObject);
-            Debug.Log("Attack" + hitEnemies);
         }
 
     }
