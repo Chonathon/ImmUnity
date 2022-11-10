@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-05-13T22:06:05.798-04:00
+  initializedAtString: 2022-05-13T21:34:25.292-04:00
+  entries:
+  - path: PixCell/Assets/Scripts/PlayerSwitchLogic.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/PlayerSwitchLogic.cs
+    projectPath: Assets/Scripts/PlayerSwitchLogic.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Assets/Scripts/WbcAttack.cs
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Assets/Scripts/WbcAttack.cs
+    projectPath: Assets/Scripts/WbcAttack.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/gfu/cache/branches.yaml
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/SceneVisibilityState.asset
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/sean/Documents/GitHub/ImmUnity/PixCell/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
